@@ -2,3 +2,8 @@ streamlit
 pypdf
 python-dotenv
 pydantic
+sentence-transformers
+chromadb
+openai
+google-genai
+python-docx
